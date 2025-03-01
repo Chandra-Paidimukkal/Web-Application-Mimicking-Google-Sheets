@@ -92,6 +92,14 @@ Formulas are evaluated using a recursive approach:
 5. Use the Functions menu to insert mathematical or data quality functions
 6. Use Find and Replace to search and replace text in selected cells
 
+LINK: https://cheerful-seahorse-5f987f.netlify.app/
+
+Screenshots:
+![Screenshot 2025-03-01 214221](https://github.com/user-attachments/assets/9e520122-bc3c-4810-bb19-7fe3983acb8b)
+![Screenshot 2025-03-01 214239](https://github.com/user-attachments/assets/a256e579-6d25-4027-8e29-77a529abd378)
+
+
+
 ## Future Enhancements
 
 - Support for more complex formulas and cell referencing
